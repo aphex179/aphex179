@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aphex179
 - 👀 I’m interested in using technology to help people
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on green technology and ethics of technology
 - 📫 How to reach me : alavi2244@hotmail.com
 
