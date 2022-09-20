@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aphex179
-- 👀 I’m interested in using technology to help people, green technology and ethics of technology
+- 👀 I’m interested in using technology to help people
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : alavi2244@hotmail.com
