@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aphex179
 - 👀 I’m interested in using technology to help people
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : alavi2244@hotmail.com
+- 🌱 I’m currently learning ITIL
+- 💞️ I’m looking to collaborate on Cybersecurity projects
 
 <!---
 aphex179/aphex179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
