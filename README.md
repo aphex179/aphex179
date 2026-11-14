@@ -2,7 +2,7 @@
 - 💼 Systems Engineer based in Sydney, working across devices, infrastructure, and cloud systems.
 - 💻 I’m interested using technology to help people, whether it is fixing issues, streamlining processes, or getting things back up and running.
 - 📜 I have built up a collection of scripts and Operational knowledge from tackling real‑world IT issues, so feel free to reach out if you need any help!
-- 👀 Outside of IT, I am into horror movies, football, and the occasional conspiracy theory!
+- 👀 Outside of IT, I am into horror movies, football, and going down a good conspiracy theory!
 - 🎮 Discord: @aphex179
 
 <!---
